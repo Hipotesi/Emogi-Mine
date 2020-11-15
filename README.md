@@ -1,2 +1,2 @@
-# Emogi-Mine
-Emogi Mine
+# Emoji-Minesweeper
+Emoji-Minesweeper
